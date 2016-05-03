@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">唯唯动听</string>
+    <string name="xml_activity_main_sliding_top_text">列表选择</string>
+    <string name="xml_activity_main_folder_back_text">返回上一级</string>
+    <string name="xml_activity_scan_title">扫描歌曲</string>
+    <string name="xml_activity_setting_title">设置</string>
+    <string name="xml_activity_setting_skin">更换背景</string>
+    <string name="xml_activity_setting_lyric">更换歌词高亮颜色</string>
+    <string name="xml_activity_setting_headset_title">耳机线控(不稳定，暂不允许更改)</string>
+    <string name="xml_activity_setting_headset_text">互换长按与双击行为</string>
+    <string name="xml_dialog_scan_title">扫描歌曲</string>
+    <string name="xml_dialog_scan_info">列表空空如也，先去找找歌曲吧！</string>
+    <string name="xml_dialog_scan_btn">  好的。</string>
+    <string name="xml_dialog_menu_remove">从列表中移除</string>
+    <string name="xml_dialog_menu_delete">从文件中删除</string>
+    <string name="xml_dialog_menu_info">查看歌曲详情</string>
+    <string name="loading">正在加载</string>
+    <string name="pull_refresh">下拉可以刷新！</string>
+    <string name="last_refresh_time">上次更新时间！</string>
+    <string name="xml_dialog_delete_title">警告</string>
+    <string name="xml_dialog_delete_info">确认将文件从SD卡上删除？</string>
+    <string name="xml_dialog_delete_positive">确定</string>
+    <string name="xml_dialog_delete_negative">取消</string>
+    <string name="xml_dialog_info_title">歌曲信息</string>
+    <string name="xml_dialog_about_title">关于</string>
+    <string name="xml_dialog_about_info1">祝您生活愉快，音乐唯一深沁尔心</string>
+    <string name="xml_dialog_about_info2">爱唯一，爱音乐</string>
+    <string name="xml_dialog_about_info3"></string>
+    <string name="xml_dialog_about_info4">作者：wydewy</string>
+    <string name="xml_dialog_about_info5">完成日期：2015.02.11</string>
+    <string name="xml_dialog_about_info6">By wydewy 2015</string>
+    <string name="xml_dialog_btn_negative">关闭</string>
+
+</resources>

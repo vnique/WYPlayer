@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_scan_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\adapter_scan_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player_landscape.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_player_landscape.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_scan.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\dialog_scan.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_sliding.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_main_sliding.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\content_list_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_music_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\adapter_music_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\download_notification_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_main.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\slidingmenu_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_menu.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_volume.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\popup_volume.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\layout\\activity_player.xml"
+    }
+]

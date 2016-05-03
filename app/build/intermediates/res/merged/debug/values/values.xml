@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sliding_list_icon">
+        <item>@drawable/ic_search</item>
+        <item>@drawable/sliding_item_icon_scan</item>
+        <item>@drawable/sliding_item_icon_all</item>
+        <item>@drawable/ic_menu_mapmode</item>
+        <item>@drawable/sliding_item_icon_favourite</item>
+        <item>@drawable/sliding_item_icon_folder</item>
+        <!-- <item>@drawable/download</item> -->
+        <item>@drawable/sliding_item_icon_exit</item>
+    </array>
+    <string-array name="sliding_list_text">
+        <item>搜索歌曲</item>
+        <item>扫描歌曲</item>
+        <item>全部歌曲</item>
+        <item>在线歌曲</item>
+        <item>我的最爱</item>
+        <item>文件夹</item>
+        <!-- <item>我的下载</item> -->
+        <item>退出</item>
+    </string-array>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <color name="baby_blue">#FF2FA6DE</color>
+    <color name="black">#FF000000</color>
+    <color name="dialog_btn">#FF8D8D8D</color>
+    <color name="dialog_divider">#FF4DB6FF</color>
+    <color name="dialog_info">#FF284F7A</color>
+    <color name="dialog_info1">#FF4DCFF4</color>
+    <color name="dialog_info2">#FF33CB41</color>
+    <color name="dialog_info3">#FFED851F</color>
+    <color name="dialog_info4">#FFEFBF2D</color>
+    <color name="dialog_info5">#FF1F93ED</color>
+    <color name="dialog_info6">#FF8D8D8D</color>
+    <color name="dialog_text">#FF404040</color>
+    <color name="dialog_title">#FF000000</color>
+    <color name="list_bg_color">#00DDDDDD</color>
+    <color name="list_focus_color">#FFC072C0</color>
+    <color name="list_normal_color">#FFD59FD5</color>
+    <color name="main_item_bg">#3f000000</color>
+    <color name="main_list_divider_bg">#50FFFFFF</color>
+    <color name="pressed_bg">#8033B5E5</color>
+    <color name="purple">#ff800080</color>
+    <color name="purple2">#ff700070</color>
+    <color name="scan_bottom_bg">#FF2FA6DE</color>
+    <color name="sliding_bg">#FF343434</color>
+    <color name="transparent">#00000000</color>
+    <color name="view_bg">#D8000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <dimen name="shadow_width">15.0dp</dimen>
+    <dimen name="slidingmenu_offset">150.0dp</dimen>
+    <item name="selected_view" type="id"/>
+    <string name="app_name">唯唯动听</string>
+    <string name="last_refresh_time">上次更新时间！</string>
+    <string name="loading">正在加载</string>
+    <string name="pull_refresh">下拉可以刷新！</string>
+    <string name="xml_activity_main_folder_back_text">返回上一级</string>
+    <string name="xml_activity_main_sliding_top_text">列表选择</string>
+    <string name="xml_activity_scan_title">扫描歌曲</string>
+    <string name="xml_activity_setting_headset_text">互换长按与双击行为</string>
+    <string name="xml_activity_setting_headset_title">耳机线控(不稳定，暂不允许更改)</string>
+    <string name="xml_activity_setting_lyric">更换歌词高亮颜色</string>
+    <string name="xml_activity_setting_skin">更换背景</string>
+    <string name="xml_activity_setting_title">设置</string>
+    <string name="xml_dialog_about_info1">祝您生活愉快，音乐唯一深沁尔心</string>
+    <string name="xml_dialog_about_info2">爱唯一，爱音乐</string>
+    <string name="xml_dialog_about_info3"/>
+    <string name="xml_dialog_about_info4">作者：wydewy</string>
+    <string name="xml_dialog_about_info5">完成日期：2015.02.11</string>
+    <string name="xml_dialog_about_info6">By wydewy 2015</string>
+    <string name="xml_dialog_about_title">关于</string>
+    <string name="xml_dialog_btn_negative">关闭</string>
+    <string name="xml_dialog_delete_info">确认将文件从SD卡上删除？</string>
+    <string name="xml_dialog_delete_negative">取消</string>
+    <string name="xml_dialog_delete_positive">确定</string>
+    <string name="xml_dialog_delete_title">警告</string>
+    <string name="xml_dialog_info_title">歌曲信息</string>
+    <string name="xml_dialog_menu_delete">从文件中删除</string>
+    <string name="xml_dialog_menu_info">查看歌曲详情</string>
+    <string name="xml_dialog_menu_remove">从列表中移除</string>
+    <string name="xml_dialog_scan_btn">  好的。</string>
+    <string name="xml_dialog_scan_info">列表空空如也，先去找找歌曲吧！</string>
+    <string name="xml_dialog_scan_title">扫描歌曲</string>
+    <style name="ActivityAnimationStyle">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_scale_up_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_scale_up_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_scale_down_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_scale_down_exit</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="AnimationThemeNoTitleBar" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimationStyle</item>
+    </style>
+    <style name="AnimationThemeNoTitleBarFullscreen" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimationStyle</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="NotificationContent">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="NotificationTitle">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TVAnimDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style mce_bogus="1" name="TVAnimDialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_tv_on</item>
+        <item name="android:windowExitAnimation">@anim/dialog_tv_off</item>
+    </style>
+    <style name="btn_custom_style">
+        <item name="android:layout_width">48dip</item>
+        <item name="android:layout_height">48dip</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:background">?android:listChoiceBackgroundIndicator</item>
+    </style>
+    <style name="floatDialogStyle" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/white</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

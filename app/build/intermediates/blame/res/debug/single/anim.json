@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_enter.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_scale_down_enter.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_enter.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_scale_up_enter.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_musicman.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_musicman.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_on.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\dialog_tv_on.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_off.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\dialog_tv_off.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_exit.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_scale_up_exit.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_logo.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_logo.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_exit.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\anim\\activity_scale_down_exit.xml"
+    }
+]

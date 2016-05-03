@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/content_list_view"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/contentItemText"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:padding="2dp"
+        android:singleLine="true"
+        android:text="你好啊啊啊啊啊啊啊啊啊"
+        android:textColor="@color/white"
+        android:textSize="20sp" >
+    </TextView>
+
+</LinearLayout>

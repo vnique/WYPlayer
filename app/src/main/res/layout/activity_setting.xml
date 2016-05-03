@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45.0dip"
+        android:background="@color/view_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/activity_setting_ib_return"
+            android:layout_width="45.0dip"
+            android:layout_height="45.0dip"
+            android:background="@drawable/btn_bg_style"
+            android:contentDescription="@string/app_name"
+            android:scaleType="center"
+            android:src="@drawable/scan_finish_btn_return" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5.0dip"
+            android:text="@string/xml_activity_setting_title"
+            android:textColor="@color/white"
+            android:textSize="17.0sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="190.0dip"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35.0dip"
+            android:gravity="bottom"
+            android:paddingLeft="10.0dip"
+            android:text="@string/xml_activity_setting_skin"
+            android:textColor="@color/baby_blue"
+            android:textSize="14.0sp" />
+
+        <LinearLayout
+            android:id="@+id/activity_setting_view_skin"
+            android:layout_width="match_parent"
+            android:layout_height="155.0dip"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="95.0dip"
+                android:layout_height="150.0dip"
+                android:background="@drawable/setting_skin_bg_style"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:layout_width="95.0dip"
+                android:layout_height="150.0dip"
+                android:layout_marginLeft="5.0dip"
+                android:layout_marginRight="5.0dip"
+                android:background="@drawable/setting_skin_bg_style"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:layout_width="95.0dip"
+                android:layout_height="150.0dip"
+                android:background="@drawable/setting_skin_bg_style"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="115.0dip"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35.0dip"
+            android:gravity="bottom"
+            android:paddingLeft="10.0dip"
+            android:text="@string/xml_activity_setting_lyric"
+            android:textColor="@color/baby_blue"
+            android:textSize="14.0sp" />
+
+        <LinearLayout
+            android:id="@+id/activity_setting_view_lyric"
+            android:layout_width="match_parent"
+            android:layout_height="65.0dip"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:background="@drawable/setting_lyric_bg_style" >
+
+                <ImageView
+                    android:layout_width="53.0dip"
+                    android:layout_height="53.0dip"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:background="@drawable/setting_lyric_bg_style" >
+
+                <ImageView
+                    android:layout_width="53.0dip"
+                    android:layout_height="53.0dip"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:background="@drawable/setting_lyric_bg_style" >
+
+                <ImageView
+                    android:layout_width="53.0dip"
+                    android:layout_height="53.0dip"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:background="@drawable/setting_lyric_bg_style" >
+
+                <ImageView
+                    android:layout_width="53.0dip"
+                    android:layout_height="53.0dip"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="55.0dip"
+                android:layout_height="55.0dip"
+                android:background="@drawable/setting_lyric_bg_style" >
+
+                <ImageView
+                    android:layout_width="53.0dip"
+                    android:layout_height="53.0dip"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100.0dip"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30.0dip"
+            android:gravity="center_vertical"
+            android:paddingLeft="10.0dip"
+            android:paddingRight="10.0dip"
+            android:text="@string/xml_activity_setting_headset_title"
+            android:textColor="@color/baby_blue"
+            android:textSize="14.0sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30.0dip"
+            android:drawableRight="@drawable/setting_button_off"
+            android:gravity="center_vertical"
+            android:paddingLeft="20.0dip"
+            android:paddingRight="20.0dip"
+            android:text="@string/xml_activity_setting_headset_text"
+            android:textColor="@color/black"
+            android:textSize="12.0sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40.0dip"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/setting_show_headset" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_mode_random_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_mode_random_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\btn_bg_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_favorite_star_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_favorite_star_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_shadow.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\view_shadow.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_lyric_bg_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\setting_lyric_bg_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_landscape_btn_pause_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_landscape_btn_pause_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_seekbar_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_seekbar_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_landscape_btn_previous_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_landscape_btn_previous_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_mode_repeat_one_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_mode_repeat_one_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_finish_btn_bg_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\scan_finish_btn_bg_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_landscape_btn_next_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_landscape_btn_next_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\dialog_btn_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_mode_normal_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_mode_normal_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_skin_bg_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\setting_skin_bg_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_pause_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_pause_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_mode_repeat_all_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_mode_repeat_all_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_item_cbx_selection.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\scan_item_cbx_selection.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_favorite_nostar_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_favorite_nostar_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_previous_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_previous_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_volume_seekbar_thumb_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_volume_seekbar_thumb_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\content_list_view.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\content_list_view.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_play_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_play_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_next_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_next_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_volume_seekbar_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_volume_seekbar_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_btn_return_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_btn_return_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_landscape_btn_play_style.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\player_landscape_btn_play_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vote_list_view.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable\\vote_list_view.xml"
+    }
+]

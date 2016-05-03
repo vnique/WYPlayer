@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45.0dip"
+        android:background="@color/main_item_bg" >
+
+        <ImageButton
+            android:id="@+id/activity_main_ib_menu"
+            android:layout_width="45.0dip"
+            android:layout_height="45.0dip"
+            android:background="@drawable/btn_bg_style"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/main_btn_menu" />
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="match_parent"
+            android:background="@drawable/view_vertical_line" />
+
+        <TextView
+            android:id="@+id/activity_main_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:paddingLeft="5.0dip"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="19.0sp" />
+    </LinearLayout>
+
+    <!-- 返回上一级 -->
+
+    <LinearLayout
+        android:id="@+id/activity_main_view_back"
+        android:layout_width="match_parent"
+        android:layout_height="50.5dip"
+        android:background="@drawable/list_selector"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50.0dip"
+            android:drawableLeft="@drawable/main_img_back"
+            android:drawablePadding="13.0dip"
+            android:gravity="center_vertical"
+            android:paddingLeft="10.0dip"
+            android:paddingRight="10.0dip"
+            android:text="@string/xml_activity_main_folder_back_text"
+            android:textColor="@color/white"
+            android:textSize="16.0sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dip"
+            android:background="@color/main_list_divider_bg" />
+    </LinearLayout>
+
+    <!-- 注意！这里的id必须为@android:id/list -->
+    <!-- scrollbarThumbVertical:更换滑块样式 -->
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/main_list_divider_bg"
+        android:dividerHeight="0.5dip"
+        android:listSelector="@drawable/list_selector"
+        android:scrollbarThumbVertical="@drawable/scrollbar_thumb" />
+
+    <!-- 显示数量 -->
+
+    <TextView
+        android:id="@+id/activity_main_tv_count"
+        android:layout_width="match_parent"
+        android:layout_height="20.0dip"
+        android:gravity="center_vertical"
+        android:paddingLeft="8.0dip"
+        android:paddingRight="8.0dip"
+        android:textColor="@color/white"
+        android:textSize="13.0sp" />
+
+    <!-- 底部控制栏 -->
+
+    <LinearLayout
+        android:id="@+id/activity_main_view_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="64.0dip"
+        android:background="@color/main_item_bg" >
+
+        <ImageView
+            android:id="@+id/activity_main_iv_album"
+            android:layout_width="64.0dip"
+            android:layout_height="64.0dip"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/main_img_album" />
+
+        <ImageView
+            android:id="@+id/activity_logo_gif"
+            android:layout_width="64.0dip"
+            android:layout_height="64.0dip"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/musicman"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="0.0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/activity_main_tv_artist"
+                android:layout_width="match_parent"
+                android:layout_height="20.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="3.0dip"
+                android:paddingRight="1.0dip"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="11.0sp" />
+
+            <TextView
+                android:id="@+id/activity_main_tv_name"
+                android:layout_width="match_parent"
+                android:layout_height="20.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="3.0dip"
+                android:paddingRight="1.0dip"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="12.0sp" />
+
+            <TextView
+                android:id="@+id/activity_main_tv_time"
+                android:layout_width="match_parent"
+                android:layout_height="20.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="3.0dip"
+                android:paddingRight="1.0dip"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="11.0sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="170.0dip"
+            android:layout_height="match_parent"
+            android:gravity="center" >
+
+            <ImageButton
+                android:id="@+id/activity_main_ib_previous"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:background="@drawable/btn_bg_style"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/main_btn_previous" />
+
+            <ImageButton
+                android:id="@+id/activity_main_ib_play"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_marginLeft="3.0dip"
+                android:layout_marginRight="3.0dip"
+                android:background="@drawable/btn_bg_style"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/main_btn_play" />
+
+            <ImageButton
+                android:id="@+id/activity_main_ib_next"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_marginRight="5.0dip"
+                android:background="@drawable/btn_bg_style"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/main_btn_next" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

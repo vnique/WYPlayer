@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_all.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_all.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_button_off.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_button_off.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_search.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_search.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_repeat_one_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_repeat_one_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_btn_pressed.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_btn_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_lyric_bg_normal.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_lyric_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_return_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_return_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_pause_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_pause_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\musicman.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\musicman.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_menu_about.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_menu_about.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_img_small.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_img_small.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_skin_bg_pressed.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_skin_bg_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_previous_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_previous_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_finish_btn_return.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scan_finish_btn_return.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_prev.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\musicman2.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\musicman2.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_item.xml",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\notification_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_menu_setting.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_menu_setting.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_next_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_next_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_menu_info.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_menu_info.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_scan.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_scan.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_play_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_play_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_skin_bg_normal.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_skin_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_previous_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_previous_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_folder.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_folder.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_top_img.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_top_img.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_show_headset.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_show_headset.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_img_album.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_img_album.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_seekbar_progress.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_seekbar_progress.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_bg.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\logo_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cancel.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_cover_default.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_cover_default.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_next_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_next_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_random_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_random_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_item_cbx_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scan_item_cbx_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_next_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_next_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_previous_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_previous_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_btn_normal.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_btn_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_favorite_star_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_favorite_star_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_seekbar_thumb_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_btn_menu.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_btn_menu.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_next_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_next_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_mapmode.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_mapmode.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\white.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\white.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_favorite_star_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_favorite_star_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_repeat_one_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_repeat_one_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_cover_bg.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_cover_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_to_refresh_arrow.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_name.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\logo_name.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_top_bg.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_top_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_lyric_bg_pressed.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\setting_lyric_bg_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_menu_list_info.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_menu_list_info.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_play_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_play_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_normal_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_normal_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.jpg",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\download.jpg"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_pause_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_pause_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_menu.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_menu.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_img_favorite.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_img_favorite.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_img_back.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_img_back.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_previous_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_previous_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_bg2.jpg",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\skin_bg2.jpg"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_finish_btn_bg_pressed.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scan_finish_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_menu_list_line.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_menu_list_line.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_pause_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_pause_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_bg3.jpg",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\skin_bg3.jpg"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_btn_play.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_btn_play.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_item_btn_favourite_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\music_item_btn_favourite_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scrollbar_thumb.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scrollbar_thumb.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_back.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\skin_bg1.jpg",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\skin_bg1.jpg"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_favourite.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_favourite.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_btn_pause.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_btn_pause.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_favorite_nostar_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_favorite_nostar_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_finish_btn_bg_normal.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scan_finish_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_seekbar_thumb_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_return_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_return_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_menu_exit.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_menu_exit.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_img_big.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_img_big.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_repeat_all_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_repeat_all_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_seekbar_bg.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_seekbar_bg.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_menu_list_remove.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_menu_list_remove.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_volume_bg.9.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume_bg.9.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_play_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_play_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_menu_list_delete.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\dialog_menu_list_delete.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_pause_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_pause_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_list_divider.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_list_divider.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_favorite_nostar_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_favorite_nostar_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_bg.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_btn_play_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_btn_play_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_btn_previous.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_btn_previous.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_item_icon_exit.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_item_icon_exit.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_item_btn_favourite_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\music_item_btn_favourite_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_repeat_all_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_repeat_all_normal.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_top_img2.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\sliding_top_img2.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_item_btn_menu.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\music_item_btn_menu.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\view_vertical_line.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\view_vertical_line.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_landscape_cover_default.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_landscape_cover_default.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_normal_pressed.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_normal_pressed.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_item_cbx_checked.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\scan_item_cbx_checked.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_btn_next.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\main_btn_next.png"
+    },
+    {
+        "merged": "G:\\Android\\vnique_Android\\WYPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_btn_mode_random_normal.png",
+        "source": "G:\\Android\\vnique_Android\\WYPlayer\\app\\src\\main\\res\\drawable-hdpi\\player_btn_mode_random_normal.png"
+    }
+]

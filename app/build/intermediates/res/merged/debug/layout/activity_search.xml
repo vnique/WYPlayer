@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_skin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45.0dip"
+        android:background="@color/main_item_bg"
+        android:orientation="horizontal" >
+
+         <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="40.0dip"
+            android:background="@color/purple2"
+            android:layout_height="fill_parent"
+            android:src="@drawable/ic_menu_back" />
+         
+        <EditText
+            android:id="@+id/searchTxt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:hint="搜索 歌手 歌名"
+            android:padding="10dp" />
+
+        <ImageView
+            android:id="@+id/search_img"
+            android:layout_width="40.0dip"
+            android:layout_height="fill_parent"
+            android:src="@drawable/ic_search" />
+    </LinearLayout>
+
+    <!-- 注意！这里的id必须为@android:id/list -->
+    <!-- scrollbarThumbVertical:更换滑块样式 -->
+
+    <ListView
+        android:id="@+id/searchList"
+        android:layout_width="match_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/main_list_divider_bg"
+        android:dividerHeight="0.5dip"
+        android:listSelector="@drawable/list_selector"
+        android:scrollbarThumbVertical="@drawable/scrollbar_thumb" />
+
+   
+   
+
+</LinearLayout>

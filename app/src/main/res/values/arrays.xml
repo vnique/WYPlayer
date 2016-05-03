@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="sliding_list_icon">
+        <item>@drawable/ic_search</item>
+        <item>@drawable/sliding_item_icon_scan</item>
+        <item>@drawable/sliding_item_icon_all</item>
+        <item>@drawable/ic_menu_mapmode</item>
+        <item>@drawable/sliding_item_icon_favourite</item>
+        <item>@drawable/sliding_item_icon_folder</item>
+        <!-- <item>@drawable/download</item> -->
+        <item>@drawable/sliding_item_icon_exit</item>
+    </array>
+
+    <string-array name="sliding_list_text">
+        <item>搜索歌曲</item>
+        <item>扫描歌曲</item>
+        <item>全部歌曲</item>
+        <item>在线歌曲</item>
+        <item>我的最爱</item>
+        <item>文件夹</item>
+        <!-- <item>我的下载</item> -->
+        <item>退出</item>
+    </string-array>
+
+</resources>

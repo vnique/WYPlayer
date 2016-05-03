@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.wydewy.wyplayer"
+    android:versionCode="1"
+    android:versionName="1.2.9" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <!-- 允许读取手机状态相关数据 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 允许获得audio session ID -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 允许获得当前或最近运行的任务 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许访问SD卡 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+    <application
+        name="cn.wydewy.wyplayer.Mp3Application"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:requiredForAllUsers="true"
+        android:testOnly="false"
+        android:theme="@style/AppTheme"
+        android:vmSafeMode="true" >
+        <activity
+            android:name="cn.wydewy.wyplayer.LogoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBarFullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.wydewy.wyplayer.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBar" >
+        </activity>
+        <activity
+            android:name="cn.wydewy.wyplayer.SearchActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBar" >
+        </activity>
+        <activity
+            android:name="cn.wydewy.wyplayer.ScanActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBar" >
+        </activity>
+        <activity
+            android:name="cn.wydewy.wyplayer.PlayerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBar" >
+        </activity>
+        <activity
+            android:name="cn.wydewy.wyplayer.SettingActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AnimationThemeNoTitleBar" >
+        </activity>
+
+        <service android:name="cn.wydewy.wyplayer.service.MediaService" >
+        </service>
+
+        <receiver
+            android:name="cn.wydewy.wyplayer.service.PlayControlReceive"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="previous" />
+                <action android:name="play" />
+                <action android:name="next" />
+                <action android:name="cancel" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
