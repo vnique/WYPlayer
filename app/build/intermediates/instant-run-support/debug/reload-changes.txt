@@ -1,0 +1,15 @@
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$color$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$style$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$string$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$styleable$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$integer$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$layout$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$drawable$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\codeboy\android\cycleviewpager\R$color$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\adapter\SlidingAdapter$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$dimen$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$color$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$color$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cn\wydewy\wyplayer\R$id$override.class
+CHANGED,G:\Android\vnique_Android\WYPlayer\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

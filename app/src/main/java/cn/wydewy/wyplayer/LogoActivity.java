@@ -24,7 +24,7 @@ import cn.wydewy.wyplayer.util.ScanUtil;
 /**
  * <br>
  * <b>程序启动首页面</b></br>
- * <p>
+ * <p/>
  * <br>
  * 执行动画、扫描数据库、第一次进入创建桌面图标， </br>
  *
@@ -153,7 +153,7 @@ public class LogoActivity extends Activity {
 				 * 上面所说自定义View参考我上一版本的C_Me音乐RunGif。
 				 */
                 final AnimationDrawable anim = (AnimationDrawable) getResources()
-                        .getDrawable(R.anim.activity_musicman);
+                        .getDrawable(R.drawable.activity_musicman);
                 gifView.setBackgroundDrawable(anim);
                 gifView.getViewTreeObserver().addOnPreDrawListener(
                         new OnPreDrawListener() {

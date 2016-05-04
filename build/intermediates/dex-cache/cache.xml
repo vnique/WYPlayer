@@ -2,53 +2,11 @@
 <items version="2" >
 
     <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\libs\chardet-1.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\chardet-1.0_fde5a815b151364f259096d8929a157d1a1b72fe.jar" />
-    </item>
-    <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\libs\support-v4-18.0.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c3229a404731942822a8cf901b39e10a49934c87.jar" />
-    </item>
-    <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\libs\antlr-2.7.4.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\antlr-2.7.4_494271439cf7aeaa608b1928eb809ffffbcd57db.jar" />
-    </item>
-    <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\libs\jaudiotagger-2.0.4.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="64a05cf9050623a0f71fa655ec5407915c481aa7">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\jaudiotagger-2.0.4_1c8f0e52b4555e41997077eae0ef926862a4c09d.jar" />
-    </item>
-    <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\libs\cpdetector_1.0.10.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10_708c09c54f56014814e09cec4d7bcfd1842a71db.jar" />
-    </item>
-    <item
         jar="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="24dddbd670415e8543fc200c5c2ac861bac62436">
+        sha1="82fb5802046065d56a60f03f7e74792a1754a5c7">
         <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_10cb69bcb2c3c9012ebee17e1c68d1fc06d0ce87.jar" />
-    </item>
-    <item
-        jar="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="07654cc1f6999a8044d8c75038c2900a03530f64">
-        <dex dex="G:\Android\vnique_Android\WYPlayer\app\build\intermediates\pre-dexed\debug\instant-run_b3d91b9b8617d16ed801dae5d27b3c40d06a66ac.jar" />
     </item>
 
 </items>

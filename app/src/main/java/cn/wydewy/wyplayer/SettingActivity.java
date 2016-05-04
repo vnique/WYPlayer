@@ -25,7 +25,7 @@ import cn.wydewy.wyplayer.service.MediaService;
  * @author CWD
  * @version 2013.08.22 v1.0 实现对应各设置功能</br>
  */
-public class SettingActivity extends Activity {
+public class SettingActivity extends SwipBack4AppCompatActivity {
 
 	private int skinId;
 	private int colorId;

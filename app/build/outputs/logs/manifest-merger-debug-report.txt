@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:2:1-94:12
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:2:1-90:12
 	package
 		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
@@ -15,167 +15,217 @@ ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:2
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.INTERNET
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:19:22-85
+application
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:21:5-88:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [org.litepal.android:core:1.3.1] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.1\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:23.1.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [me.codeboy.android:cycle-view-pager:1.0.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\me.codeboy.android\cycle-view-pager\1.0.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:enabled
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:25:9-31
+	android:label
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowClearUserData
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:24:9-42
+	android:requiredForAllUsers
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:29:9-43
+	android:testOnly
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:30:9-33
+	android:vmSafeMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:32:9-34
+	android:allowBackup
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:26:9-45
+	android:persistent
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:28:9-34
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:22:9-57
+activity#cn.wydewy.wyplayer.LogoActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:36:13-70
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:34:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:40:27-74
+activity#cn.wydewy.wyplayer.MainActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:43:9-48:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:45:13-44
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:47:13-48
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:44:13-40
+activity#cn.wydewy.wyplayer.SearchActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:49:9-54:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:52:13-49
+	android:launchMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:51:13-44
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:50:13-42
+activity#cn.wydewy.wyplayer.ScanActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:55:9-60:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:57:13-44
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:56:13-40
+activity#cn.wydewy.wyplayer.PlayerActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:61:9-67:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:65:13-49
+	android:launchMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:64:13-44
+	android:configChanges
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:63:13-72
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:62:13-42
+activity#cn.wydewy.wyplayer.SettingActivity
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:71:13-49
+	android:launchMode
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:70:13-44
+	android:theme
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:72:13-44
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:69:13-43
+service#cn.wydewy.wyplayer.service.MediaService
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:75:9-76:19
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:75:18-72
+receiver#cn.wydewy.wyplayer.service.PlayControlReceive
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:78:9-87:20
+	android:exported
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:79:13-73
+intent-filter#cancel+next+play+previous
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:81:13-86:29
+action#previous
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:82:17-51
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:82:25-48
+action#play
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:83:17-47
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:83:25-44
+action#next
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:84:17-47
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:84:25-44
+action#cancel
+ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:85:17-49
+	android:name
+		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:85:25-46
 uses-sdk
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [org.litepal.android:core:1.3.1] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.1.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [me.codeboy.android:cycle-view-pager:1.0.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\me.codeboy.android\cycle-view-pager\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] G:\Android\vnique_Android\WYPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:8:9-34
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
 		INJECTED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:12:5-75
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:12:22-72
-uses-permission#android.permission.RECORD_AUDIO
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:15:5-71
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:15:22-68
-uses-permission#android.permission.GET_TASKS
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:17:5-68
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:17:22-65
-uses-permission#android.permission.INTERNET
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:18:5-67
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:18:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:19:5-79
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:19:22-76
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:21:5-81
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:21:22-78
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:22:5-76
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:22:22-73
-uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:23:5-88
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:23:22-85
-application
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:25:5-92:19
-	android:enabled
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:29:9-31
-	android:label
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:31:9-41
-	android:allowClearUserData
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:28:9-42
-	android:requiredForAllUsers
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:33:9-43
-	android:testOnly
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:34:9-33
-	android:vmSafeMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:36:9-34
-	android:allowBackup
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:27:9-35
-	android:icon
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:30:9-45
-	android:persistent
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:32:9-34
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:35:9-40
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:26:9-57
-activity#cn.wydewy.wyplayer.LogoActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:37:9-46:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:39:13-49
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:40:13-70
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:38:13-40
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:41:13-45:29
-action#android.intent.action.MAIN
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:42:17-69
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:42:25-66
-category#android.intent.category.LAUNCHER
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:44:17-77
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:44:27-74
-activity#cn.wydewy.wyplayer.MainActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:47:9-52:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:50:13-49
-	android:launchMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:49:13-44
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:51:13-60
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:48:13-40
-activity#cn.wydewy.wyplayer.SearchActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:53:9-58:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:56:13-49
-	android:launchMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:55:13-44
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:57:13-60
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:54:13-42
-activity#cn.wydewy.wyplayer.ScanActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:59:9-64:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:62:13-49
-	android:launchMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:61:13-44
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:63:13-60
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:60:13-40
-activity#cn.wydewy.wyplayer.PlayerActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:65:9-71:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:69:13-49
-	android:launchMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:68:13-44
-	android:configChanges
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:67:13-72
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:70:13-60
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:66:13-42
-activity#cn.wydewy.wyplayer.SettingActivity
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:72:9-77:20
-	android:screenOrientation
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:75:13-49
-	android:launchMode
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:74:13-44
-	android:theme
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:76:13-60
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:73:13-43
-service#cn.wydewy.wyplayer.service.MediaService
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:79:9-80:19
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:79:18-72
-receiver#cn.wydewy.wyplayer.service.PlayControlReceive
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:82:9-91:20
-	android:exported
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:84:13-36
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:83:13-73
-intent-filter#cancel+next+play+previous
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:85:13-90:29
-action#previous
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:86:17-51
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:86:25-48
-action#play
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:87:17-47
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:87:25-44
-action#next
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:88:17-47
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:88:25-44
-action#cancel
-ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:89:17-49
-	android:name
-		ADDED from G:\Android\vnique_Android\WYPlayer\app\src\main\AndroidManifest.xml:89:25-46

@@ -87,7 +87,7 @@ import cn.wydewy.wyplayer.util.ImageUtil;
  *          2013.08.28 v2.1 实现专辑封面3D翻转动画<br>
  *          2013.08.30 v2.2 实现对系统媒体音量的设置</br>
  */
-public class PlayerActivity extends Activity implements OnClickListener,
+public class PlayerActivity extends SwipBack4AppCompatActivity implements OnClickListener,
 		OnLongClickListener, OnTouchListener, OnSeekBarChangeListener {
 
 	private final String TIME_NORMAL = "00:00";

@@ -5,8 +5,8 @@
     android:versionName="1.2.9" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="19" />
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
 
     <!-- 允许读取手机状态相关数据 -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
@@ -48,32 +48,32 @@
             android:name="cn.wydewy.wyplayer.MainActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/AnimationThemeNoTitleBar" >
+            android:theme="@style/AppBaseTheme" >
         </activity>
         <activity
             android:name="cn.wydewy.wyplayer.SearchActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/AnimationThemeNoTitleBar" >
+            android:theme="@style/AppTheme" >
         </activity>
         <activity
             android:name="cn.wydewy.wyplayer.ScanActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/AnimationThemeNoTitleBar" >
+            android:theme="@style/AppTheme" >
         </activity>
         <activity
             android:name="cn.wydewy.wyplayer.PlayerActivity"
             android:configChanges="keyboard|keyboardHidden|orientation"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/AnimationThemeNoTitleBar" >
+            android:theme="@style/AppTheme" >
         </activity>
         <activity
             android:name="cn.wydewy.wyplayer.SettingActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/AnimationThemeNoTitleBar" >
+            android:theme="@style/AppTheme" >
         </activity>
 
         <service android:name="cn.wydewy.wyplayer.service.MediaService" >

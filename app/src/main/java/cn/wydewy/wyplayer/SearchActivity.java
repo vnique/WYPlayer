@@ -65,7 +65,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayPostRequest;
 import com.android.volley.toolbox.Volley;
 
-public class SearchActivity extends Activity implements OnClickListener,
+public class SearchActivity extends SwipBack4AppCompatActivity implements OnClickListener,
 		OnItemClickListener, TextWatcher, OnItemLongClickListener,
 		IDialogOnclickInterface {
 	private EditText searchTxt;

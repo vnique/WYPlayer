@@ -38,7 +38,7 @@ import cn.wydewy.wyplayer.util.ScanUtil;
  *          2013.08.01 v1.3 新增扫描完成记录SharedPreferences<br>
  *          2013.08.22 v1.4 将setResult更换为sendBroadcast</br>
  */
-public class ScanActivity extends Activity {
+public class ScanActivity extends SwipBack4AppCompatActivity {
 
 	private final String INFO_NORMAL = "扫描歌曲";
 	private final String INFO_SCAN = "正在扫描";
